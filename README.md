@@ -11,4 +11,4 @@ Rezumat:
 - creare asseturi necesare:copaci deformati, tufisuri, texturi iarba, fantana, tarantula (toate asseturile (mesh si texturi),inafara de skybox au fost create de mine)
 - de remarcat ar fi fantana, care mi se pare ca a iesit grozav (are adaugat si o NM creata speciala pentru ea prin procesul de bake de la un mesh cu mult mai multe poligoane)
 - de notat ar fi ca scena nu e completa, deoarece mai trebuie adaugata o cabana si distribuita mai bine vegetatia, insa aceasta ilustreaza destul de bine atmosfera unei paduri bantuite
-- video-ul demonstrativ este movie_006.mp4, adaugat in repository (am adaugat un alt film in care mainile sunt scoase pentru a se vedea mai bine scena)
+- video-ul demonstrativ este movie_006.mp4, adaugat in repository (in acest film mainile sunt scoase pentru a se vedea mai bine scena)
