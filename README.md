@@ -4,6 +4,14 @@ State of the art: https://docs.google.com/document/d/173qZQpU6bNXTV3dU1szgOx5TJX
 
 Identification of main modules of the application: https://docs.google.com/document/d/1kxBPMhPApqfee1oU5uDffRYoxIoEt1VzvX3hOEkILBQ/edit#heading=h.bcldxwdefncd
 
+Tema 8
+
+Rezumat:
+ -modelare asseturi pentru scena 1 (pietre si bruieni)
+ -creare fisiere audio pe baza textului (https://play.ht/). Am ales acest tool deoarece nu cerea bani (cel putin primele mii de cuvinte) si functioneaza si suficient de bine.
+ -creare scripturi ce permite comunicarea dintre player si caractere (am pus in movie_009.mp4 cam cum ar arata interactiunea)
+ -lucru la deplasarea playerului (Din cate am vazut in VR se deplasa doar camera, iar playerul statea pe loc. Am incercat mai multe tehnici prin care sa-l fac pe player sa se deplaseze, insa mai e de lucru, deoarece trebuie ca playerul sa aiba senzatia ca leviteaza. In plus, prin unele obiecte va putea trece, iar prin altele nu. Daca aveti vreun sfat legat de miscarea playerului in VR, mi-ar parea bine sa il primesc).
+
 Tema 7
 
 Rezumat:
