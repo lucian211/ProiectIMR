@@ -4,6 +4,18 @@ State of the art: https://docs.google.com/document/d/173qZQpU6bNXTV3dU1szgOx5TJX
 
 Identification of main modules of the application: https://docs.google.com/document/d/1kxBPMhPApqfee1oU5uDffRYoxIoEt1VzvX3hOEkILBQ/edit#heading=h.bcldxwdefncd
 
+
+Tema 9
+
+Rezumat:
+- lucru la deplasarea playerului (deocamdata arata bine, vor mai urma inbunatatiri pentru a facilita interactiunea cu obiectele)
+- am inceput sa lucrez la interactiunea dintre player si obiecte (am pus in video videos_010)
+- creare de obiecte interactive (deocamdata doar crengi)
+- inceperea scenei 3 (testarea de asseturi de suprafata de apa - acestea le-am importat)
+ 
+
+
+
 Tema 8
 
 Rezumat:
