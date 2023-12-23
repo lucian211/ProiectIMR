@@ -8,7 +8,7 @@ public class GhostMovement : MonoBehaviour
     float low;
     float hight; 
     float target;
-    float speed = 1.0f;
+    float speed = 0.0f;
     // Start is called before the first frame update
     void Start()
     {
