@@ -7,7 +7,7 @@ Identification of main modules of the application: https://docs.google.com/docum
 Tema 10
 
 Rezumat:
-- modelare si animare obiect interactiv complex pentru a testa sincronizarea dintre player su obiectele interactibile (o galeata cu maner)
+- modelare si animare obiect interactiv complex pentru a testa sincronizarea dintre player si obiectele interactibile (o galeata cu maner)
 - dupa nenumarate teste, am ajuns la concluzia ca folosirea de animatii individuale ale mainii pentru fiecare obiect cu care va interactiona playerul si animarea obiectelor si adaugarea la schelet a unor attach point-uri este cea mai buna solutie (am pus in video videos_011)
 - mici modificari la locomotia playerului (inca nu m-am hotarat daca voi face deplasarea playerului asemenea zorului unei fantome, deoarece vor exista dificultati in apucarea obiectelor. Probabil voi adauga un efect de zbor cand playerul va sta pe loc)
   
