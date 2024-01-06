@@ -10,7 +10,8 @@ Rezumat:
 - modelare si animare obiect interactiv complex pentru a testa sincronizarea dintre player si obiectele interactibile (o galeata cu maner)
 - dupa nenumarate teste, am ajuns la concluzia ca folosirea de animatii individuale ale mainii pentru fiecare obiect cu care va interactiona playerul si animarea obiectelor si adaugarea la schelet a unor attach point-uri este cea mai buna solutie (am pus in video videos_011)
 - mici modificari la locomotia playerului (inca nu m-am hotarat daca voi face deplasarea playerului asemenea zborului unei fantome, deoarece vor exista dificultati in apucarea obiectelor. Probabil voi adauga un efect de zbor doar cand playerul va sta pe loc)
-  
+- adaugare de elemente UI : meniu sub forma de semn de lemn
+- creare scena lobby, de unde se pot accesa episoadele povestii
 
 
 Tema 9
