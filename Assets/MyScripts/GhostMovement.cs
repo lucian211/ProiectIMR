@@ -28,7 +28,7 @@ public class GhostMovement : MonoBehaviour
     void Move()
     {
         transform.localPosition = Vector3.MoveTowards(transform.localPosition, new Vector3(transform.localPosition.x, target, transform.localPosition.z), speed *0.1f* Time.deltaTime);
-        Debug.Log(target);
+       
         if (transform.localPosition.y >= hight)
        {   low = transform.localPosition.y - 0.2f;
             target = low;
