@@ -4,6 +4,7 @@ State of the art: https://docs.google.com/document/d/173qZQpU6bNXTV3dU1szgOx5TJX
 
 Identification of main modules of the application: https://docs.google.com/document/d/1kxBPMhPApqfee1oU5uDffRYoxIoEt1VzvX3hOEkILBQ/edit#heading=h.bcldxwdefncd
 
+Demo: https://www.youtube.com/watch?v=fWlbVB6I22c
 
 Tema 11
 
