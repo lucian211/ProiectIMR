@@ -50,7 +50,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -1978303741906493279, guid: 47bd9ef3b6c6fc24c9d389304586a38c,
+  m_Motion: {fileID: 6958968346802185837, guid: db51e006838a04545a2e54418be87673,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 
@@ -65,7 +65,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: trigger
-  m_Speed: 2
+  m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 1743016666687806968}
@@ -78,7 +78,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 2487603200126053778, guid: 47bd9ef3b6c6fc24c9d389304586a38c,
+  m_Motion: {fileID: 1300770197434942443, guid: db51e006838a04545a2e54418be87673,
     type: 3}
   m_Tag: 
   m_SpeedParameter: 

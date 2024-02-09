@@ -5,6 +5,7 @@ using UnityEngine;
 public class limax : MonoBehaviour
 {
     private Animator animator;
+    bool d = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,9 +23,18 @@ public class limax : MonoBehaviour
     void OnTriggerEnter(Collider colliderInfo)
     {
         if (colliderInfo.tag == "stick")
-        {
+        {  
             transform.SetParent(colliderInfo.gameObject.transform);
             animator.CrossFade("hit", 0.01f);
+            if (d == false)
+            {
+                GameObject player = GameObject.Find("Player");
+                PlayerController control = player.GetComponent<PlayerController>();
+                control.killLimax();
+                d = true;
+            }
+
+
         }
     }
 

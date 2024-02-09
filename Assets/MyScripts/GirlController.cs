@@ -10,6 +10,7 @@ public class GirlController : MonoBehaviour
     [SerializeField]
     GameObject sunet1;
     private GameObject sunet1_inst;
+    public Transform place;
     bool s1 = false;
     bool count1=false;
     float time1=3.5f;
