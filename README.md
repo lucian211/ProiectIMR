@@ -4,6 +4,16 @@ State of the art: https://docs.google.com/document/d/173qZQpU6bNXTV3dU1szgOx5TJX
 
 Identification of main modules of the application: https://docs.google.com/document/d/1kxBPMhPApqfee1oU5uDffRYoxIoEt1VzvX3hOEkILBQ/edit#heading=h.bcldxwdefncd
 
+
+Tema 11
+
+Rezumat:
+- modelare si animare mana de fantoma si limax, modelare capac nou fantana, pardoseala cabana , liane etc.
+- modificare locomotie player(pana la urma am decis sa las cum a fost, deoarece asa aratau toate tutorialele-playerul va fi Origin si se va deplasa doar la deplasarea joystikului mainii stangi)
+- lucrat la interactiunea dintre player si diverse obiecte si personaje (am pus un link in care playerul vaneaza limaxi de pe fantana cu un bat): https://drive.google.com/file/d/1chqOUpgMWcKGdOVqHlQGenDhTjF7pAB3/view?usp=drivesdk
+ 
+
+
 Tema 10
 
 Rezumat:
